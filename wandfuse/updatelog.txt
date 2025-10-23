@@ -1,0 +1,7 @@
+fix ui in roll  when pick multiple wands
+
+fix ui winking
+
+rewrite gift system，now you set  【Chance to get a reward per draw】and【Fusions required for per reward draw】
+
+Adjusted algorithm for 【Fusions required per reward draw】, now the actual value matches the displayed value when close to integers
